@@ -1,2 +1,2 @@
 not_empty
-git project
+git project updated
